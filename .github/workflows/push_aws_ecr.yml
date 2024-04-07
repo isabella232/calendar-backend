@@ -1,0 +1,21 @@
+name: "Build & Push Docker image"
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  push_docker_image:
+    runs-on: ubuntu-latest
+    steps:
+      - run: docker build --tag ifsc-calendar-backend:latest .
+      - name: Push to ECR
+        id: ecr
+        uses: jwalton/gh-ecr-push@v1
+        with:
+          access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          region: eu-central-1
+          image: ifsc-calendar-backend
