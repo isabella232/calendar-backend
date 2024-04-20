@@ -29,4 +29,5 @@ jobs:
         with:
           context: .
           push: true
+          build-args: WEBHOOK_SECRET=${{ secrets.WEBHOOK_SECRET }}
           tags: ghcr.io/${{ github.repository }}:latest
