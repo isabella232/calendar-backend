@@ -15,6 +15,7 @@ final class CalendarResponse extends Response
     {
         parent::__construct($content, headers: [
             'Content-Type' => 'text/calendar',
+            'Content-Disposition' => 'attachment; filename="ifsc-calendar.ics"',
         ]);
     }
 }
