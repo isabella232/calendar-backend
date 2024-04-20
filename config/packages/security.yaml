@@ -1,0 +1,15 @@
+security:
+  providers:
+    users_in_memory:
+      memory:
+        users:
+          admin: { roles: [ 'ROLE_ADMIN' ] }
+  firewalls:
+    dev:
+      pattern: ^/(_(profiler|wdt)|css|images|js)/
+      security: false
+    main:
+      access_token:
+        token_handler: App\Application\Security\AccessTokenHandler
+  access_control:
+    - { path: ^/webhook/notify-update, roles: ROLE_ADMIN }

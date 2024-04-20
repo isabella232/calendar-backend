@@ -1,0 +1,11 @@
+framework:
+  serializer:
+    name_converter: 'serializer.name_converter.camel_case_to_snake_case'
+    default_context:
+      enable_max_depth: true
+      yaml_indentation: 2
+
+when@test:
+  framework:
+    test: true
+

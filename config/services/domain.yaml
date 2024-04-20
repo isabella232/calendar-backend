@@ -1,0 +1,17 @@
+services:
+  # Event
+  App\Domain\Event\EventFilter: ~
+
+  # Calendar
+  App\Domain\Calendar\Build\CalendarBuilder:
+    class: App\Domain\Calendar\Build\CalendarBuilder
+    arguments:
+      - '@App\Infrastructure\Event\JsonEventProvider'
+      - '@App\Infrastructure\Calendar\Build\ICalCalendarBuilder'
+
+  App\Domain\Calendar\Update\CalendarUpdate:
+    class: App\Domain\Calendar\Update\CalendarUpdate
+    arguments:
+      - '@App\Infrastructure\Calendar\Update\HTTPCalendarProvider'
+      - '@App\Infrastructure\Calendar\Update\JsonSchemeCompatibility'
+      - '@App\Infrastructure\Calendar\Update\FilesystemCalendarStorage'

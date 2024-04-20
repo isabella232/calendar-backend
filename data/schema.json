@@ -1,0 +1,226 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "categoryEnum": {
+      "type": "string",
+      "enum": [
+        "women",
+        "men"
+      ]
+    },
+    "disciplineEnum": {
+      "type": "string",
+      "enum": [
+        "boulder",
+        "lead",
+        "speed"
+      ]
+    },
+    "kindEnum": {
+      "type": "string",
+      "enum": [
+        "qualification",
+        "semi-final",
+        "final"
+      ]
+    },
+    "regionType": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "scheduleStatusEnum": {
+      "type": "string",
+      "enum": [
+        "confirmed",
+        "provisional",
+        "estimated"
+      ]
+    }
+  },
+  "type": "object",
+  "properties": {
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "league_name": {
+            "type": "string"
+          },
+          "season": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "country": {
+            "type": "string"
+          },
+          "location": {
+            "type": "string"
+          },
+          "poster": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "site_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "event_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "disciplines": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/disciplineEnum"
+            },
+            "minItems": 1
+          },
+          "starts_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "ends_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "timezone": {
+            "type": "string"
+          },
+          "rounds": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "categories": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/definitions/categoryEnum"
+                  },
+                  "minItems": 1
+                },
+                "disciplines": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/definitions/disciplineEnum"
+                  },
+                  "minItems": 1
+                },
+                "kind": {
+                  "$ref": "#/definitions/kindEnum"
+                },
+                "starts_at": {
+                  "type": "string",
+                  "format": "date-time"
+                },
+                "ends_at": {
+                  "type": "string",
+                  "format": "date-time"
+                },
+                "schedule_status": {
+                  "$ref": "#/definitions/scheduleStatusEnum"
+                },
+                "stream_url": {
+                  "type": [
+                    "null",
+                    "string"
+                  ],
+                  "format": "uri"
+                },
+                "stream_blocked_regions": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/definitions/regionType"
+                  }
+                }
+              },
+              "required": [
+                "name",
+                "categories",
+                "disciplines",
+                "kind",
+                "starts_at",
+                "ends_at",
+                "schedule_status",
+                "stream_url",
+                "stream_blocked_regions"
+              ]
+            }
+          },
+          "start_list": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "first_name": {
+                  "type": "string"
+                },
+                "last_name": {
+                  "type": "string"
+                },
+                "country": {
+                  "type": "string",
+                  "pattern": "^[A-Z]{3}$"
+                },
+                "photo_url": {
+                  "type": [
+                    "null",
+                    "string"
+                  ],
+                  "format": "uri"
+                }
+              }
+            }
+          }
+        },
+        "required": [
+          "id",
+          "league_name",
+          "season",
+          "name",
+          "country",
+          "location",
+          "site_url",
+          "event_url",
+          "disciplines",
+          "starts_at",
+          "ends_at",
+          "timezone",
+          "rounds",
+          "start_list"
+        ]
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "updated_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "generated_by": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "required": [
+        "updated_at",
+        "generated_by"
+      ]
+    }
+  },
+  "required": [
+    "events",
+    "metadata"
+  ]
+}

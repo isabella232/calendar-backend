@@ -1,0 +1,5 @@
+imports:
+  - { resource: parameters.yaml }
+  - { resource: services/application.yaml }
+  - { resource: services/domain.yaml }
+  - { resource: services/infrastructure.yaml }

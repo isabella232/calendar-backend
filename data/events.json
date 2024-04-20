@@ -1,0 +1,3654 @@
+{
+    "events": [
+        {
+            "id": 1353,
+            "league_name": "World Cups and World Championships",
+            "season": 2024,
+            "name": "IFSC: World Cup - Keqiao",
+            "country": "CHN",
+            "location": "Keqiao",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1353",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-world-cup-keqiao-2024",
+            "disciplines": [
+                "boulder"
+            ],
+            "starts_at": "2024-04-08T09:00:00+08:00",
+            "ends_at": "2024-04-10T19:00:00+08:00",
+            "timezone": "Asia\/Shanghai",
+            "rounds": [
+                {
+                    "name": "Women's Boulder Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-04-08T09:00:00+08:00",
+                    "ends_at": "2024-04-08T10:30:00+08:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Boulder Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-04-08T16:00:00+08:00",
+                    "ends_at": "2024-04-08T17:30:00+08:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder Semi-Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-04-09T12:00:00+08:00",
+                    "ends_at": "2024-04-09T14:22:00+08:00",
+                    "schedule_status": "confirmed",
+                    "stream_url": "https:\/\/youtu.be\/Mfr7pZMTyvM",
+                    "stream_blocked_regions": [
+                        "AD",
+                        "AL",
+                        "AM",
+                        "AT",
+                        "AZ",
+                        "BA",
+                        "BE",
+                        "BG",
+                        "BY",
+                        "CH",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GE",
+                        "GR",
+                        "HR",
+                        "HU",
+                        "IE",
+                        "IL",
+                        "IS",
+                        "IT",
+                        "KG",
+                        "KZ",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MD",
+                        "ME",
+                        "MK",
+                        "MT",
+                        "NL",
+                        "NO",
+                        "PL",
+                        "PT",
+                        "RO",
+                        "RS",
+                        "RU",
+                        "SE",
+                        "SI",
+                        "SK",
+                        "SM",
+                        "TJ",
+                        "TM",
+                        "TR",
+                        "UA",
+                        "UZ",
+                        "VA"
+                    ]
+                },
+                {
+                    "name": "Women's Boulder Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-04-09T19:00:00+08:00",
+                    "ends_at": "2024-04-09T21:58:00+08:00",
+                    "schedule_status": "confirmed",
+                    "stream_url": "https:\/\/youtu.be\/K9vcnOpBPDc",
+                    "stream_blocked_regions": [
+                        "AD",
+                        "AL",
+                        "AM",
+                        "AR",
+                        "AT",
+                        "AZ",
+                        "BA",
+                        "BE",
+                        "BG",
+                        "BO",
+                        "BR",
+                        "BY",
+                        "BZ",
+                        "CH",
+                        "CL",
+                        "CO",
+                        "CR",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "EC",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GE",
+                        "GF",
+                        "GR",
+                        "GT",
+                        "GY",
+                        "HN",
+                        "HR",
+                        "HU",
+                        "IE",
+                        "IL",
+                        "IS",
+                        "IT",
+                        "JP",
+                        "KG",
+                        "KZ",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MD",
+                        "ME",
+                        "MK",
+                        "MT",
+                        "MX",
+                        "MY",
+                        "NI",
+                        "NL",
+                        "NO",
+                        "PA",
+                        "PE",
+                        "PL",
+                        "PT",
+                        "PY",
+                        "RO",
+                        "RS",
+                        "RU",
+                        "SE",
+                        "SI",
+                        "SK",
+                        "SM",
+                        "SR",
+                        "SV",
+                        "TJ",
+                        "TM",
+                        "TR",
+                        "UA",
+                        "UY",
+                        "UZ",
+                        "VA",
+                        "VE"
+                    ]
+                },
+                {
+                    "name": "Men's Boulder Semi-Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-04-10T09:00:00+08:00",
+                    "ends_at": "2024-04-10T12:56:00+08:00",
+                    "schedule_status": "confirmed",
+                    "stream_url": "https:\/\/youtu.be\/IimyqQEYQns",
+                    "stream_blocked_regions": [
+                        "AD",
+                        "AL",
+                        "AM",
+                        "AT",
+                        "AZ",
+                        "BA",
+                        "BE",
+                        "BG",
+                        "BY",
+                        "CH",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GE",
+                        "GR",
+                        "HR",
+                        "HU",
+                        "IE",
+                        "IL",
+                        "IS",
+                        "IT",
+                        "KG",
+                        "KZ",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MD",
+                        "ME",
+                        "MK",
+                        "MT",
+                        "NL",
+                        "NO",
+                        "PL",
+                        "PT",
+                        "RO",
+                        "RS",
+                        "RU",
+                        "SE",
+                        "SI",
+                        "SK",
+                        "SM",
+                        "TJ",
+                        "TM",
+                        "TR",
+                        "UA",
+                        "UZ",
+                        "VA"
+                    ]
+                },
+                {
+                    "name": "Men's Boulder Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-04-10T19:00:00+08:00",
+                    "ends_at": "2024-04-10T22:15:00+08:00",
+                    "schedule_status": "confirmed",
+                    "stream_url": "https:\/\/youtu.be\/rW0JPEFpju8",
+                    "stream_blocked_regions": [
+                        "AD",
+                        "AL",
+                        "AM",
+                        "AR",
+                        "AT",
+                        "AZ",
+                        "BA",
+                        "BE",
+                        "BG",
+                        "BO",
+                        "BR",
+                        "BY",
+                        "BZ",
+                        "CH",
+                        "CL",
+                        "CO",
+                        "CR",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "EC",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GE",
+                        "GF",
+                        "GR",
+                        "GT",
+                        "GY",
+                        "HN",
+                        "HR",
+                        "HU",
+                        "IE",
+                        "IL",
+                        "IS",
+                        "IT",
+                        "JP",
+                        "KG",
+                        "KZ",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MD",
+                        "ME",
+                        "MK",
+                        "MT",
+                        "MX",
+                        "NI",
+                        "NL",
+                        "NO",
+                        "PA",
+                        "PE",
+                        "PL",
+                        "PT",
+                        "PY",
+                        "RO",
+                        "RS",
+                        "RU",
+                        "SE",
+                        "SI",
+                        "SK",
+                        "SM",
+                        "SR",
+                        "SV",
+                        "TJ",
+                        "TM",
+                        "TR",
+                        "UA",
+                        "UY",
+                        "UZ",
+                        "VA",
+                        "VE"
+                    ]
+                }
+            ],
+            "start_list": [
+                {
+                    "first_name": "Jessica",
+                    "last_name": "PILZ",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1226\/photo"
+                },
+                {
+                    "first_name": "Jakob",
+                    "last_name": "SCHUBERT",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1214\/photo"
+                },
+                {
+                    "first_name": "Oceania",
+                    "last_name": "MACKENZIE",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2501\/photo"
+                },
+                {
+                    "first_name": "Hannes",
+                    "last_name": "VAN DUYSEN",
+                    "country": "BEL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/373\/photo"
+                },
+                {
+                    "first_name": "Nicolai",
+                    "last_name": "UZNIK",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1256\/photo"
+                },
+                {
+                    "first_name": "Simon",
+                    "last_name": "LORENZI",
+                    "country": "BEL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/318\/photo"
+                },
+                {
+                    "first_name": "Nicolas",
+                    "last_name": "COLLIN",
+                    "country": "BEL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/320\/photo"
+                },
+                {
+                    "first_name": "Jan-Luca",
+                    "last_name": "POSCH",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1245\/photo"
+                },
+                {
+                    "first_name": "Franziska",
+                    "last_name": "STERRER",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1240\/photo"
+                },
+                {
+                    "first_name": "Madison",
+                    "last_name": "RICHARDSON",
+                    "country": "CAN",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1629\/photo"
+                },
+                {
+                    "first_name": "Chloe",
+                    "last_name": "CAULIER",
+                    "country": "BEL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/316\/photo"
+                },
+                {
+                    "first_name": "Johanna",
+                    "last_name": "F\u00c4RBER",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1243\/photo"
+                },
+                {
+                    "first_name": "Campbell",
+                    "last_name": "HARRISON",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2493\/photo"
+                },
+                {
+                    "first_name": "Valentina",
+                    "last_name": "AGUADO",
+                    "country": "ARG",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3161\/photo"
+                },
+                {
+                    "first_name": "Maya",
+                    "last_name": "STASIUK",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13857\/photo"
+                },
+                {
+                    "first_name": "Victor",
+                    "last_name": "BAUDRAND",
+                    "country": "CAN",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1644\/photo"
+                },
+                {
+                    "first_name": "Emily",
+                    "last_name": "SCOTT",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13510\/photo"
+                },
+                {
+                    "first_name": "Dylan",
+                    "last_name": "PARKS",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13853\/photo"
+                },
+                {
+                    "first_name": "Anja",
+                    "last_name": "K\u00d6HLER ",
+                    "country": "BRA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3204\/photo"
+                },
+                {
+                    "first_name": "Rodrigo",
+                    "last_name": "IASI HANADA",
+                    "country": "BRA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/12903\/photo"
+                }
+            ]
+        },
+        {
+            "id": 1354,
+            "league_name": "World Cups and World Championships",
+            "season": 2024,
+            "name": "IFSC: World Cup - Wujiang",
+            "country": "CHN",
+            "location": "Wujiang",
+            "poster": "https:\/\/res.dasheng.top\/227\/pro\/ctms_tool\/20240323\/jpg\/d7f6d496a71d4dc785c8d0e51169d17b.jpg",
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1354",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-world-cup-wujiang-2024",
+            "disciplines": [
+                "lead",
+                "speed"
+            ],
+            "starts_at": "2024-04-12T09:00:00+08:00",
+            "ends_at": "2024-04-14T19:00:00+08:00",
+            "timezone": "Asia\/Shanghai",
+            "rounds": [
+                {
+                    "name": "Men's & Women's Lead Qualification",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-04-12T09:00:00+08:00",
+                    "ends_at": "2024-04-12T15:00:00+08:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's & Women's Speed Qualification",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-04-12T19:00:00+08:00",
+                    "ends_at": "2024-04-12T21:23:00+08:00",
+                    "schedule_status": "confirmed",
+                    "stream_url": "https:\/\/youtu.be\/X7PmeKGh7tI",
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's & Women's Lead Semi-Final",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-04-13T15:00:00+08:00",
+                    "ends_at": "2024-04-13T17:30:00+08:00",
+                    "schedule_status": "confirmed",
+                    "stream_url": "https:\/\/youtu.be\/bHcDzuvBpNc",
+                    "stream_blocked_regions": [
+                        "AD",
+                        "AL",
+                        "AM",
+                        "AT",
+                        "AZ",
+                        "BA",
+                        "BE",
+                        "BG",
+                        "BY",
+                        "CH",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GE",
+                        "GR",
+                        "HR",
+                        "HU",
+                        "IE",
+                        "IL",
+                        "IS",
+                        "IT",
+                        "KG",
+                        "KZ",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MD",
+                        "ME",
+                        "MK",
+                        "MT",
+                        "NL",
+                        "NO",
+                        "PL",
+                        "PT",
+                        "RO",
+                        "RS",
+                        "RU",
+                        "SE",
+                        "SI",
+                        "SK",
+                        "SM",
+                        "TJ",
+                        "TM",
+                        "TR",
+                        "UA",
+                        "UZ",
+                        "VA"
+                    ]
+                },
+                {
+                    "name": "Men's & Women's Speed Final",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-04-13T19:30:00+08:00",
+                    "ends_at": "2024-04-13T21:00:00+08:00",
+                    "schedule_status": "confirmed",
+                    "stream_url": "https:\/\/youtu.be\/6CX-tsztQ94",
+                    "stream_blocked_regions": [
+                        "AD",
+                        "AL",
+                        "AM",
+                        "AR",
+                        "AT",
+                        "AZ",
+                        "BA",
+                        "BE",
+                        "BG",
+                        "BO",
+                        "BR",
+                        "BY",
+                        "BZ",
+                        "CH",
+                        "CL",
+                        "CO",
+                        "CR",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "EC",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GE",
+                        "GF",
+                        "GR",
+                        "GT",
+                        "GY",
+                        "HN",
+                        "HR",
+                        "HU",
+                        "IE",
+                        "IL",
+                        "IS",
+                        "IT",
+                        "JP",
+                        "KG",
+                        "KZ",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MD",
+                        "ME",
+                        "MK",
+                        "MT",
+                        "MX",
+                        "MY",
+                        "NI",
+                        "NL",
+                        "NO",
+                        "PA",
+                        "PE",
+                        "PL",
+                        "PT",
+                        "PY",
+                        "RO",
+                        "RS",
+                        "RU",
+                        "SE",
+                        "SI",
+                        "SK",
+                        "SM",
+                        "SR",
+                        "SV",
+                        "TJ",
+                        "TM",
+                        "TR",
+                        "UA",
+                        "UY",
+                        "UZ",
+                        "VA",
+                        "VE"
+                    ]
+                },
+                {
+                    "name": "Women's Lead Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-04-14T19:00:00+08:00",
+                    "ends_at": "2024-04-14T21:00:00+08:00",
+                    "schedule_status": "confirmed",
+                    "stream_url": "https:\/\/youtu.be\/B_FQ3g-d0Ag",
+                    "stream_blocked_regions": [
+                        "AD",
+                        "AL",
+                        "AM",
+                        "AR",
+                        "AT",
+                        "AZ",
+                        "BA",
+                        "BE",
+                        "BG",
+                        "BO",
+                        "BR",
+                        "BY",
+                        "BZ",
+                        "CH",
+                        "CL",
+                        "CO",
+                        "CR",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "EC",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GE",
+                        "GF",
+                        "GR",
+                        "GT",
+                        "GY",
+                        "HN",
+                        "HR",
+                        "HU",
+                        "IE",
+                        "IL",
+                        "IS",
+                        "IT",
+                        "JP",
+                        "KG",
+                        "KZ",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MD",
+                        "ME",
+                        "MK",
+                        "MT",
+                        "MX",
+                        "MY",
+                        "NI",
+                        "NL",
+                        "NO",
+                        "PA",
+                        "PE",
+                        "PL",
+                        "PT",
+                        "PY",
+                        "RO",
+                        "RS",
+                        "RU",
+                        "SE",
+                        "SI",
+                        "SK",
+                        "SM",
+                        "SR",
+                        "SV",
+                        "TJ",
+                        "TM",
+                        "TR",
+                        "UA",
+                        "UY",
+                        "UZ",
+                        "VA",
+                        "VE"
+                    ]
+                },
+                {
+                    "name": "Men's Lead Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-04-14T19:00:00+08:00",
+                    "ends_at": "2024-04-14T20:00:00+08:00",
+                    "schedule_status": "confirmed",
+                    "stream_url": "https:\/\/youtu.be\/B_FQ3g-d0Ag",
+                    "stream_blocked_regions": [
+                        "AD",
+                        "AL",
+                        "AM",
+                        "AR",
+                        "AT",
+                        "AZ",
+                        "BA",
+                        "BE",
+                        "BG",
+                        "BO",
+                        "BR",
+                        "BY",
+                        "BZ",
+                        "CH",
+                        "CL",
+                        "CO",
+                        "CR",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "EC",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GE",
+                        "GF",
+                        "GR",
+                        "GT",
+                        "GY",
+                        "HN",
+                        "HR",
+                        "HU",
+                        "IE",
+                        "IL",
+                        "IS",
+                        "IT",
+                        "JP",
+                        "KG",
+                        "KZ",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MD",
+                        "ME",
+                        "MK",
+                        "MT",
+                        "MX",
+                        "MY",
+                        "NI",
+                        "NL",
+                        "NO",
+                        "PA",
+                        "PE",
+                        "PL",
+                        "PT",
+                        "PY",
+                        "RO",
+                        "RS",
+                        "RU",
+                        "SE",
+                        "SI",
+                        "SK",
+                        "SM",
+                        "SR",
+                        "SV",
+                        "TJ",
+                        "TM",
+                        "TR",
+                        "UA",
+                        "UY",
+                        "UZ",
+                        "VA",
+                        "VE"
+                    ]
+                }
+            ],
+            "start_list": [
+                {
+                    "first_name": "Hannes",
+                    "last_name": "VAN DUYSEN",
+                    "country": "BEL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/373\/photo"
+                },
+                {
+                    "first_name": "Simon",
+                    "last_name": "LORENZI",
+                    "country": "BEL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/318\/photo"
+                },
+                {
+                    "first_name": "Nicolas",
+                    "last_name": "COLLIN",
+                    "country": "BEL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/320\/photo"
+                },
+                {
+                    "first_name": "Stefan",
+                    "last_name": "SCHERZ",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1274\/photo"
+                },
+                {
+                    "first_name": "Yafei",
+                    "last_name": "ZHOU",
+                    "country": "CHN",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Mattea",
+                    "last_name": "P\u00d6TZI",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1266\/photo"
+                },
+                {
+                    "first_name": "Chloe",
+                    "last_name": "CAULIER",
+                    "country": "BEL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/316\/photo"
+                },
+                {
+                    "first_name": "Mi",
+                    "last_name": "YANG",
+                    "country": "CHN",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Campbell",
+                    "last_name": "HARRISON",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2493\/photo"
+                },
+                {
+                    "first_name": "Valentina",
+                    "last_name": "AGUADO",
+                    "country": "ARG",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3161\/photo"
+                },
+                {
+                    "first_name": "Maya",
+                    "last_name": "STASIUK",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13857\/photo"
+                },
+                {
+                    "first_name": "Kevin",
+                    "last_name": "AMON",
+                    "country": "AUT",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Lukas",
+                    "last_name": "KNAPP",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1263\/photo"
+                },
+                {
+                    "first_name": "Victor",
+                    "last_name": "BAUDRAND",
+                    "country": "CAN",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1644\/photo"
+                },
+                {
+                    "first_name": "Emily",
+                    "last_name": "SCOTT",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13510\/photo"
+                },
+                {
+                    "first_name": "Dylan",
+                    "last_name": "PARKS",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13853\/photo"
+                },
+                {
+                    "first_name": "Roxy",
+                    "last_name": "PERRY",
+                    "country": "AUS",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Anja",
+                    "last_name": "K\u00d6HLER ",
+                    "country": "BRA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3204\/photo"
+                },
+                {
+                    "first_name": "Guy",
+                    "last_name": "MCNAMEE",
+                    "country": "CAN",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1646\/photo"
+                },
+                {
+                    "first_name": "Kindar",
+                    "last_name": "MCNAMEE",
+                    "country": "CAN",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1647\/photo"
+                }
+            ]
+        },
+        {
+            "id": 1355,
+            "league_name": "World Cups and World Championships",
+            "season": 2024,
+            "name": "IFSC: World Cup - Salt Lake City",
+            "country": "USA",
+            "location": "Salt Lake City",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1355",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-world-cup-salt-lake-city-2024",
+            "disciplines": [
+                "speed",
+                "boulder"
+            ],
+            "starts_at": "2024-05-03T09:00:00-07:00",
+            "ends_at": "2024-05-05T20:00:00-07:00",
+            "timezone": "America\/Phoenix",
+            "rounds": [
+                {
+                    "name": "Men's Boulder Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-03T09:00:00-07:00",
+                    "ends_at": "2024-05-03T13:30:00-07:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-03T15:30:00-07:00",
+                    "ends_at": "2024-05-03T21:00:00-07:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Boulder Semi-Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-05-04T10:00:00-07:00",
+                    "ends_at": "2024-05-04T12:30:00-07:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Speed Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-04T15:45:00-07:00",
+                    "ends_at": "2024-05-04T17:15:00-07:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Boulder Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-05-04T18:00:00-07:00",
+                    "ends_at": "2024-05-04T20:00:00-07:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Speed Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-05-04T20:00:00-07:00",
+                    "ends_at": "2024-05-04T21:00:00-07:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder Semi-Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-05-05T10:00:00-07:00",
+                    "ends_at": "2024-05-05T12:30:00-07:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Speed Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-05T15:45:00-07:00",
+                    "ends_at": "2024-05-05T17:15:00-07:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-05-05T18:00:00-07:00",
+                    "ends_at": "2024-05-05T20:00:00-07:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Speed Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-05-05T20:00:00-07:00",
+                    "ends_at": "2024-05-05T21:30:00-07:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": [
+                {
+                    "first_name": "Jessica",
+                    "last_name": "PILZ",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1226\/photo"
+                },
+                {
+                    "first_name": "Jakob",
+                    "last_name": "SCHUBERT",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1214\/photo"
+                },
+                {
+                    "first_name": "Oceania",
+                    "last_name": "MACKENZIE",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2501\/photo"
+                },
+                {
+                    "first_name": "Simon",
+                    "last_name": "LORENZI",
+                    "country": "BEL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/318\/photo"
+                },
+                {
+                    "first_name": "Jan-Luca",
+                    "last_name": "POSCH",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1245\/photo"
+                },
+                {
+                    "first_name": "Johanna",
+                    "last_name": "F\u00c4RBER",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1243\/photo"
+                },
+                {
+                    "first_name": "Aleksandra",
+                    "last_name": "TOTKOVA",
+                    "country": "BUL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/11464\/photo"
+                },
+                {
+                    "first_name": "Campbell",
+                    "last_name": "HARRISON",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2493\/photo"
+                },
+                {
+                    "first_name": "Valentina",
+                    "last_name": "AGUADO",
+                    "country": "ARG",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3161\/photo"
+                },
+                {
+                    "first_name": "Kevin",
+                    "last_name": "AMON",
+                    "country": "AUT",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Slav",
+                    "last_name": "KIROV",
+                    "country": "BUL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/11500\/photo"
+                },
+                {
+                    "first_name": "Sandra",
+                    "last_name": "LETTNER",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1270\/photo"
+                },
+                {
+                    "first_name": "Lukas",
+                    "last_name": "KNAPP",
+                    "country": "AUT",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1263\/photo"
+                },
+                {
+                    "first_name": "Grace",
+                    "last_name": "CROWLEY",
+                    "country": "AUS",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Dylan",
+                    "last_name": "PARKS",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13853\/photo"
+                },
+                {
+                    "first_name": "Felipe",
+                    "last_name": "HO FOGANHOLO",
+                    "country": "BRA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3141\/photo"
+                },
+                {
+                    "first_name": "Anja",
+                    "last_name": "K\u00d6HLER ",
+                    "country": "BRA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3204\/photo"
+                },
+                {
+                    "first_name": "Rodrigo",
+                    "last_name": "IASI HANADA",
+                    "country": "BRA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/12903\/photo"
+                },
+                {
+                    "first_name": "Pedro",
+                    "last_name": "EGG",
+                    "country": "BRA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Laura",
+                    "last_name": "FARHAT DE ARAUJO FRAGA TIMO",
+                    "country": "BRA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/12901\/photo"
+                }
+            ]
+        },
+        {
+            "id": 1388,
+            "league_name": "IFSC Paraclimbing",
+            "season": 2024,
+            "name": "IFSC: World Cup - Salt Lake City",
+            "country": "USA",
+            "location": "Salt Lake City",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1388",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-paraclimbing-world-cup-salt-lake-city-2024",
+            "disciplines": [
+                "lead"
+            ],
+            "starts_at": "2024-05-07T02:00:00-06:00",
+            "ends_at": "2024-05-08T10:00:00-06:00",
+            "timezone": "America\/Denver",
+            "rounds": [
+                {
+                    "name": "Men B1's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men B2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men B3's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women B1's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women B2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women B3's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AL1's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AL1's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AL2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AL2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AU2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AU2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men RP1's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men RP2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men RP3's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women RP1's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women RP2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women RP3's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AU3's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AU3's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-07T02:00:00-06:00",
+                    "ends_at": "2024-05-07T03:30:00-06:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": []
+        },
+        {
+            "id": 1384,
+            "league_name": "Games",
+            "season": 2024,
+            "name": "IFSC: Olympic Qualifier Series - Shanghai",
+            "country": "CHN",
+            "location": "Shanghai",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1384",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/olympic-qualifier-series-shanghai-2024",
+            "disciplines": [
+                "boulder",
+                "lead",
+                "speed"
+            ],
+            "starts_at": "2024-05-16T16:00:00+08:00",
+            "ends_at": "2024-05-20T00:00:00+08:00",
+            "timezone": "Asia\/Shanghai",
+            "rounds": [
+                {
+                    "name": "Men's Boulder & Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder",
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-16T16:00:00+08:00",
+                    "ends_at": "2024-05-16T17:30:00+08:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder & Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder",
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-16T16:00:00+08:00",
+                    "ends_at": "2024-05-16T17:30:00+08:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Speed Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-16T16:00:00+08:00",
+                    "ends_at": "2024-05-16T17:30:00+08:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Speed Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-05-16T16:00:00+08:00",
+                    "ends_at": "2024-05-16T17:30:00+08:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": []
+        },
+        {
+            "id": 1385,
+            "league_name": "Games",
+            "season": 2024,
+            "name": "IFSC: Olympic Qualifier Series - Budapest",
+            "country": "HUN",
+            "location": "Budapest",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1385",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/olympic-qualifier-series-budapest-2024",
+            "disciplines": [
+                "boulder",
+                "lead",
+                "speed"
+            ],
+            "starts_at": "2024-06-20T10:00:00+02:00",
+            "ends_at": "2024-06-23T18:00:00+02:00",
+            "timezone": "Europe\/Budapest",
+            "rounds": [
+                {
+                    "name": "Men's Boulder & Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder",
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-20T10:00:00+02:00",
+                    "ends_at": "2024-06-20T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder & Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder",
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-20T10:00:00+02:00",
+                    "ends_at": "2024-06-20T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Speed Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-20T10:00:00+02:00",
+                    "ends_at": "2024-06-20T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Speed Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-20T10:00:00+02:00",
+                    "ends_at": "2024-06-20T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": []
+        },
+        {
+            "id": 1387,
+            "league_name": "IFSC Paraclimbing",
+            "season": 2024,
+            "name": "IFSC: World Cup - Innsbruck",
+            "country": "AUT",
+            "location": "Innsbruck",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1387",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-paraclimbing-world-cup-innsbruck-2024",
+            "disciplines": [
+                "lead"
+            ],
+            "starts_at": "2024-06-24T10:00:00+02:00",
+            "ends_at": "2024-06-25T18:00:00+02:00",
+            "timezone": "Europe\/Vienna",
+            "rounds": [
+                {
+                    "name": "Men B1's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men B2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men B3's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women B1's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women B2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women B3's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AL1's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AL1's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AL2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AL2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AU2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AU2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men RP1's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men RP2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men RP3's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women RP1's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women RP2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women RP3's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AU3's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AU3's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-24T10:00:00+02:00",
+                    "ends_at": "2024-06-24T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": []
+        },
+        {
+            "id": 1356,
+            "league_name": "World Cups and World Championships",
+            "season": 2024,
+            "name": "IFSC: World Cup - Innsbruck",
+            "country": "AUT",
+            "location": "Innsbruck",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1356",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-world-cup-innsbruck-2024",
+            "disciplines": [
+                "lead",
+                "boulder"
+            ],
+            "starts_at": "2024-06-26T09:00:00+02:00",
+            "ends_at": "2024-06-30T20:40:00+02:00",
+            "timezone": "Europe\/Vienna",
+            "rounds": [
+                {
+                    "name": "Women's Boulder Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-26T09:00:00+02:00",
+                    "ends_at": "2024-06-26T13:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Boulder Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-26T15:30:00+02:00",
+                    "ends_at": "2024-06-26T21:00:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder Semi-Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-06-27T13:00:00+02:00",
+                    "ends_at": "2024-06-27T15:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-06-27T19:30:00+02:00",
+                    "ends_at": "2024-06-27T21:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Boulder Semi-Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-06-28T13:00:00+02:00",
+                    "ends_at": "2024-06-28T15:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Boulder Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-06-28T19:30:00+02:00",
+                    "ends_at": "2024-06-28T21:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's & Women's Lead Qualification",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-06-29T09:00:00+02:00",
+                    "ends_at": "2024-06-29T15:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's & Women's Lead Semi-Final",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-06-29T19:40:00+02:00",
+                    "ends_at": "2024-06-29T22:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Lead Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-06-30T19:40:00+02:00",
+                    "ends_at": "2024-06-30T20:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Lead Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-06-30T20:40:00+02:00",
+                    "ends_at": "2024-06-30T21:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": [
+                {
+                    "first_name": "Brooke",
+                    "last_name": "RABOUTOU",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1811\/photo"
+                },
+                {
+                    "first_name": "Natalia",
+                    "last_name": "GROSSMAN",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1803\/photo"
+                },
+                {
+                    "first_name": "Colin",
+                    "last_name": "DUFFY",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1929\/photo"
+                },
+                {
+                    "first_name": "Oceania",
+                    "last_name": "MACKENZIE",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2501\/photo"
+                },
+                {
+                    "first_name": "Anastasia",
+                    "last_name": "SANDERS",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Jesse",
+                    "last_name": "GRUPPER",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1749\/photo"
+                },
+                {
+                    "first_name": "Kyra",
+                    "last_name": "CONDIE",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1750\/photo"
+                },
+                {
+                    "first_name": "Dillon",
+                    "last_name": "COUNTRYMAN",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Campbell",
+                    "last_name": "HARRISON",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2493\/photo"
+                },
+                {
+                    "first_name": "Kylie",
+                    "last_name": "CULLEN",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/12537\/photo"
+                },
+                {
+                    "first_name": "Valentina",
+                    "last_name": "AGUADO",
+                    "country": "ARG",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3161\/photo"
+                },
+                {
+                    "first_name": "Maya",
+                    "last_name": "STASIUK",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13857\/photo"
+                },
+                {
+                    "first_name": "Dylan",
+                    "last_name": "PARKS",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13853\/photo"
+                },
+                {
+                    "first_name": "Hugo",
+                    "last_name": "HOYER",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Si Wan",
+                    "last_name": "LEI",
+                    "country": "MAC",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/15101\/photo"
+                }
+            ]
+        },
+        {
+            "id": 1357,
+            "league_name": "World Cups and World Championships",
+            "season": 2024,
+            "name": "IFSC: World Cup - Chamonix",
+            "country": "FRA",
+            "location": "Chamonix",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1357",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-world-cup-chamonix-2024",
+            "disciplines": [
+                "lead",
+                "speed"
+            ],
+            "starts_at": "2024-07-12T18:45:00+02:00",
+            "ends_at": "2024-07-14T21:25:00+02:00",
+            "timezone": "Europe\/Paris",
+            "rounds": [
+                {
+                    "name": "Men's & Women's Speed Qualification",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-07-12T18:45:00+02:00",
+                    "ends_at": "2024-07-12T20:15:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's & Women's Lead Qualification",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-07-13T09:00:00+02:00",
+                    "ends_at": "2024-07-13T18:00:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's & Women's Speed Final",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-07-13T21:00:00+02:00",
+                    "ends_at": "2024-07-13T22:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's & Women's Lead Semi-Final",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-07-14T10:00:00+02:00",
+                    "ends_at": "2024-07-14T12:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Lead Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-07-14T20:30:00+02:00",
+                    "ends_at": "2024-07-14T22:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Lead Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-07-14T21:25:00+02:00",
+                    "ends_at": "2024-07-14T22:25:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": [
+                {
+                    "first_name": "Oceania",
+                    "last_name": "MACKENZIE",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2501\/photo"
+                },
+                {
+                    "first_name": "Anastasia",
+                    "last_name": "SANDERS",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Emma",
+                    "last_name": "HUNT",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1999\/photo"
+                },
+                {
+                    "first_name": "Jesse",
+                    "last_name": "GRUPPER",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1749\/photo"
+                },
+                {
+                    "first_name": "Samuel",
+                    "last_name": "WATSON",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13034\/photo"
+                },
+                {
+                    "first_name": "John",
+                    "last_name": "BROSLER",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1754\/photo"
+                },
+                {
+                    "first_name": "Piper",
+                    "last_name": "KELLY",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1888\/photo"
+                },
+                {
+                    "first_name": "Campbell",
+                    "last_name": "HARRISON",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2493\/photo"
+                },
+                {
+                    "first_name": "Valentina",
+                    "last_name": "AGUADO",
+                    "country": "ARG",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3161\/photo"
+                },
+                {
+                    "first_name": "Adriene Akiko",
+                    "last_name": "CLARK",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13020\/photo"
+                },
+                {
+                    "first_name": "Noah",
+                    "last_name": "BRATSCHI",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1798\/photo"
+                },
+                {
+                    "first_name": "Sarah",
+                    "last_name": "TETZLAFF",
+                    "country": "NZL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3759\/photo"
+                },
+                {
+                    "first_name": "Julian",
+                    "last_name": "DAVID",
+                    "country": "NZL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13915\/photo"
+                },
+                {
+                    "first_name": "Liberty",
+                    "last_name": "RUNNELS",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13551\/photo"
+                },
+                {
+                    "first_name": "Grace",
+                    "last_name": "CROWLEY",
+                    "country": "AUS",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Dylan",
+                    "last_name": "PARKS",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13853\/photo"
+                },
+                {
+                    "first_name": "Hugo",
+                    "last_name": "HOYER",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Roxy",
+                    "last_name": "PERRY",
+                    "country": "AUS",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Kaitlyn",
+                    "last_name": "BONE",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Richard",
+                    "last_name": "LI",
+                    "country": "USA",
+                    "photo_url": null
+                }
+            ]
+        },
+        {
+            "id": 1358,
+            "league_name": "World Cups and World Championships",
+            "season": 2024,
+            "name": "IFSC: World Cup - Briancon",
+            "country": "FRA",
+            "location": "Briancon",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1358",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-world-cup-briancon-2024",
+            "disciplines": [
+                "lead",
+                "speed"
+            ],
+            "starts_at": "2024-07-17T12:00:00+02:00",
+            "ends_at": "2024-07-17T20:00:00+02:00",
+            "timezone": "Europe\/Paris",
+            "rounds": [
+                {
+                    "name": "Men's & Women's Speed Qualification",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-07-17T12:00:00+02:00",
+                    "ends_at": "2024-07-17T13:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's & Women's Speed Final",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-07-17T20:00:00+02:00",
+                    "ends_at": "2024-07-17T21:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": [
+                {
+                    "first_name": "Anastasia",
+                    "last_name": "SANDERS",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Emma",
+                    "last_name": "HUNT",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1999\/photo"
+                },
+                {
+                    "first_name": "Samuel",
+                    "last_name": "WATSON",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13034\/photo"
+                },
+                {
+                    "first_name": "John",
+                    "last_name": "BROSLER",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1754\/photo"
+                },
+                {
+                    "first_name": "Zach",
+                    "last_name": "HAMMER",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13592\/photo"
+                },
+                {
+                    "first_name": "Piper",
+                    "last_name": "KELLY",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1888\/photo"
+                },
+                {
+                    "first_name": "Campbell",
+                    "last_name": "HARRISON",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2493\/photo"
+                },
+                {
+                    "first_name": "Sophia",
+                    "last_name": "CURCIO",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13025\/photo"
+                },
+                {
+                    "first_name": "Adriene Akiko",
+                    "last_name": "CLARK",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13020\/photo"
+                },
+                {
+                    "first_name": "Noah",
+                    "last_name": "BRATSCHI",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1798\/photo"
+                },
+                {
+                    "first_name": "Sarah",
+                    "last_name": "TETZLAFF",
+                    "country": "NZL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/3759\/photo"
+                },
+                {
+                    "first_name": "Julian",
+                    "last_name": "DAVID",
+                    "country": "NZL",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13915\/photo"
+                },
+                {
+                    "first_name": "Grace",
+                    "last_name": "CROWLEY",
+                    "country": "AUS",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Isis",
+                    "last_name": "ROTHFORK",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Dylan",
+                    "last_name": "PARKS",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13853\/photo"
+                },
+                {
+                    "first_name": "Hugo",
+                    "last_name": "HOYER",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Roxy",
+                    "last_name": "PERRY",
+                    "country": "AUS",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Kaitlyn",
+                    "last_name": "BONE",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Richard",
+                    "last_name": "LI",
+                    "country": "USA",
+                    "photo_url": null
+                }
+            ]
+        },
+        {
+            "id": 1386,
+            "league_name": "Games",
+            "season": 2024,
+            "name": "IFSC: Olympic Games - Paris",
+            "country": "FRA",
+            "location": "Paris",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1386",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/olympic-games-paris-2024",
+            "disciplines": [
+                "boulder",
+                "lead",
+                "speed"
+            ],
+            "starts_at": "2024-07-26T10:00:00+02:00",
+            "ends_at": "2024-08-11T18:00:00+02:00",
+            "timezone": "Europe\/Paris",
+            "rounds": [
+                {
+                    "name": "Men's Boulder & Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder",
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-07-26T10:00:00+02:00",
+                    "ends_at": "2024-07-26T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder & Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder",
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-07-26T10:00:00+02:00",
+                    "ends_at": "2024-07-26T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Speed Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-07-26T10:00:00+02:00",
+                    "ends_at": "2024-07-26T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Speed Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-07-26T10:00:00+02:00",
+                    "ends_at": "2024-07-26T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": []
+        },
+        {
+            "id": 1359,
+            "league_name": "World Cups and World Championships",
+            "season": 2024,
+            "name": "IFSC: World Cup - Koper",
+            "country": "SLO",
+            "location": "Koper",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1359",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-world-cup-koper-2024",
+            "disciplines": [
+                "lead"
+            ],
+            "starts_at": "2024-09-06T09:00:00+02:00",
+            "ends_at": "2024-09-07T21:00:00+02:00",
+            "timezone": "Europe\/Ljubljana",
+            "rounds": [
+                {
+                    "name": "Men's & Women's Lead Qualification",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-06T09:00:00+02:00",
+                    "ends_at": "2024-09-06T13:45:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's & Women's Lead Semi-Final",
+                    "categories": [
+                        "women",
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-09-06T20:00:00+02:00",
+                    "ends_at": "2024-09-06T22:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Lead Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-09-07T20:00:00+02:00",
+                    "ends_at": "2024-09-07T21:00:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Lead Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-09-07T21:00:00+02:00",
+                    "ends_at": "2024-09-07T23:00:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": [
+                {
+                    "first_name": "Oceania",
+                    "last_name": "MACKENZIE",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2501\/photo"
+                },
+                {
+                    "first_name": "Anastasia",
+                    "last_name": "SANDERS",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Dillon",
+                    "last_name": "COUNTRYMAN",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Campbell",
+                    "last_name": "HARRISON",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/2493\/photo"
+                },
+                {
+                    "first_name": "Adriene Akiko",
+                    "last_name": "CLARK",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13020\/photo"
+                },
+                {
+                    "first_name": "Dylan",
+                    "last_name": "PARKS",
+                    "country": "AUS",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13853\/photo"
+                },
+                {
+                    "first_name": "Hugo",
+                    "last_name": "HOYER",
+                    "country": "USA",
+                    "photo_url": null
+                }
+            ]
+        },
+        {
+            "id": 1360,
+            "league_name": "World Cups and World Championships",
+            "season": 2024,
+            "name": "IFSC: World Cup - Prague",
+            "country": "CZE",
+            "location": "Prague",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1360",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-world-cup-prague-2024",
+            "disciplines": [
+                "boulder"
+            ],
+            "starts_at": "2024-09-20T09:00:00+02:00",
+            "ends_at": "2024-09-22T19:00:00+02:00",
+            "timezone": "Europe\/Prague",
+            "rounds": [
+                {
+                    "name": "Men's Boulder Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-20T09:00:00+02:00",
+                    "ends_at": "2024-09-20T10:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-20T16:00:00+02:00",
+                    "ends_at": "2024-09-20T17:30:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Boulder Semi-Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-09-21T12:00:00+02:00",
+                    "ends_at": "2024-09-21T14:00:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Boulder Final",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-09-21T20:00:00+02:00",
+                    "ends_at": "2024-09-21T22:00:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder Semi-Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "semi-final",
+                    "starts_at": "2024-09-22T12:00:00+02:00",
+                    "ends_at": "2024-09-22T14:00:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder Final",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "final",
+                    "starts_at": "2024-09-22T19:00:00+02:00",
+                    "ends_at": "2024-09-22T21:00:00+02:00",
+                    "schedule_status": "provisional",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": [
+                {
+                    "first_name": "Colin",
+                    "last_name": "DUFFY",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1929\/photo"
+                },
+                {
+                    "first_name": "Jesse",
+                    "last_name": "GRUPPER",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1749\/photo"
+                },
+                {
+                    "first_name": "Dillon",
+                    "last_name": "COUNTRYMAN",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Hugo",
+                    "last_name": "HOYER",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Helen",
+                    "last_name": "GILLETT",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Nekaia",
+                    "last_name": "SANDERS",
+                    "country": "USA",
+                    "photo_url": null
+                }
+            ]
+        },
+        {
+            "id": 1391,
+            "league_name": "IFSC Paraclimbing",
+            "season": 2024,
+            "name": "IFSC: World Cup - Arco (TN)",
+            "country": "ITA",
+            "location": "Arco (TN)",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1391",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-paraclimbing-world-cup-arco-2024",
+            "disciplines": [
+                "lead"
+            ],
+            "starts_at": "2024-09-27T10:00:00+02:00",
+            "ends_at": "2024-09-28T18:00:00+02:00",
+            "timezone": "Europe\/Rome",
+            "rounds": [
+                {
+                    "name": "Men B1's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men B2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men B3's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women B1's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women B2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women B3's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AL1's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AL1's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AL2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AL2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AU2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AU2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men RP1's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men RP2's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men RP3's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women RP1's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women RP2's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women RP3's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men AU3's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women AU3's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-09-27T10:00:00+02:00",
+                    "ends_at": "2024-09-27T11:30:00+02:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": []
+        },
+        {
+            "id": 1361,
+            "league_name": "World Cups and World Championships",
+            "season": 2024,
+            "name": "IFSC: World Cup - Seoul",
+            "country": "KOR",
+            "location": "Seoul",
+            "poster": null,
+            "site_url": "https:\/\/calendar.ifsc.stream\/view\/2024\/1361",
+            "event_url": "https:\/\/www.ifsc-climbing.org\/events\/ifsc-world-cup-seoul-2024",
+            "disciplines": [
+                "lead",
+                "speed",
+                "boulder"
+            ],
+            "starts_at": "2024-10-02T17:00:00+09:00",
+            "ends_at": "2024-10-07T01:00:00+09:00",
+            "timezone": "Asia\/Seoul",
+            "rounds": [
+                {
+                    "name": "Men's Lead Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-10-02T17:00:00+09:00",
+                    "ends_at": "2024-10-02T18:30:00+09:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Lead Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "lead"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-10-02T17:00:00+09:00",
+                    "ends_at": "2024-10-02T18:30:00+09:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Speed Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-10-02T17:00:00+09:00",
+                    "ends_at": "2024-10-02T18:30:00+09:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Speed Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "speed"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-10-02T17:00:00+09:00",
+                    "ends_at": "2024-10-02T18:30:00+09:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Men's Boulder Qualification",
+                    "categories": [
+                        "men"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-10-02T17:00:00+09:00",
+                    "ends_at": "2024-10-02T18:30:00+09:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                },
+                {
+                    "name": "Women's Boulder Qualification",
+                    "categories": [
+                        "women"
+                    ],
+                    "disciplines": [
+                        "boulder"
+                    ],
+                    "kind": "qualification",
+                    "starts_at": "2024-10-02T17:00:00+09:00",
+                    "ends_at": "2024-10-02T18:30:00+09:00",
+                    "schedule_status": "estimated",
+                    "stream_url": null,
+                    "stream_blocked_regions": []
+                }
+            ],
+            "start_list": [
+                {
+                    "first_name": "Brooke",
+                    "last_name": "RABOUTOU",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1811\/photo"
+                },
+                {
+                    "first_name": "Natalia",
+                    "last_name": "GROSSMAN",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1803\/photo"
+                },
+                {
+                    "first_name": "Colin",
+                    "last_name": "DUFFY",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1929\/photo"
+                },
+                {
+                    "first_name": "Anastasia",
+                    "last_name": "SANDERS",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Jesse",
+                    "last_name": "GRUPPER",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/1749\/photo"
+                },
+                {
+                    "first_name": "Dillon",
+                    "last_name": "COUNTRYMAN",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Adriene Akiko",
+                    "last_name": "CLARK",
+                    "country": "USA",
+                    "photo_url": "https:\/\/ifsc.results.info\/athletes\/13020\/photo"
+                },
+                {
+                    "first_name": "Hugo",
+                    "last_name": "HOYER",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Helen",
+                    "last_name": "GILLETT",
+                    "country": "USA",
+                    "photo_url": null
+                },
+                {
+                    "first_name": "Nekaia",
+                    "last_name": "SANDERS",
+                    "country": "USA",
+                    "photo_url": null
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "updated_at": "2024-04-19T07:07:53+00:00",
+        "generated_by": "https:\/\/github.com\/sportclimbing\/ifsc-calendar"
+    }
+}

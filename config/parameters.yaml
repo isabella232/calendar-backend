@@ -1,0 +1,11 @@
+parameters:
+  calendar_product_identifier: '-//ifsc/ical//2.0/EN'
+  calendar_published_ttl: 'PT1H'
+
+  calendar_access_token: '%env(WEBHOOK_SECRET)%'
+  calendar_latest_release_url: 'https://github.com/sportclimbing/ifsc-calendar/releases/latest/download/IFSC-World-Cups-and-World-Championships.json'
+  calendar_json_schema: 'http://json-schema.org/draft-07/schema#'
+
+  calendar_data_dir: '%kernel.project_dir%/data'
+  calendar_json_file: 'events.json'
+  calendar_schema_file: 'schema.json'

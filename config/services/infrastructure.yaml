@@ -1,0 +1,50 @@
+services:
+  # Event
+  App\Infrastructure\Event\JsonEventProvider:
+    class: App\Infrastructure\Event\JsonEventProvider
+    arguments:
+      - '%calendar_json_file%'
+      - '@serializer'
+      - '@League\Flysystem\Filesystem'
+
+  # Calendar
+  App\Infrastructure\Calendar\Update\HTTPCalendarProvider:
+    class: App\Infrastructure\Calendar\Update\HTTPCalendarProvider
+    arguments:
+      - '@http_client'
+      - '%calendar_latest_release_url%'
+
+  App\Infrastructure\Calendar\Build\ICalCalendarBuilder:
+    class: App\Infrastructure\Calendar\Build\ICalCalendarBuilder
+    arguments:
+      - '@Eluceo\iCal\Presentation\Factory\CalendarFactory'
+      - '@App\Domain\Event\EventFilter'
+      - '%calendar_product_identifier%'
+      - '%calendar_published_ttl%'
+
+  App\Infrastructure\Calendar\Update\JsonSchemeCompatibility:
+    class: App\Infrastructure\Calendar\Update\JsonSchemeCompatibility
+    arguments:
+      - '@Opis\JsonSchema\Validator'
+      - '%calendar_data_dir%/%calendar_schema_file%'
+      - '%calendar_json_schema%'
+
+  App\Infrastructure\Calendar\Update\FilesystemCalendarStorage:
+    class: App\Infrastructure\Calendar\Update\FilesystemCalendarStorage
+    arguments:
+      - '@filesystem'
+      - '%calendar_data_dir%/%calendar_json_file%'
+
+  # Vendors
+  Eluceo\iCal\Presentation\Factory\CalendarFactory: ~
+  Opis\JsonSchema\Validator: ~
+
+  League\Flysystem\Local\LocalFilesystemAdapter:
+    class: League\Flysystem\Local\LocalFilesystemAdapter
+    arguments:
+      - '%calendar_data_dir%/'
+
+  League\Flysystem\Filesystem:
+    class: League\Flysystem\Filesystem
+    arguments:
+      - '@League\Flysystem\Local\LocalFilesystemAdapter'

@@ -1,0 +1,38 @@
+services:
+  # Use cases
+  App\Application\UseCase\Calendar\Build\BuildCalendarUseCase:
+    class: App\Application\UseCase\Calendar\Build\BuildCalendarUseCase
+    arguments:
+      - '@App\Domain\Calendar\Build\CalendarBuilder'
+
+  App\Application\UseCase\Calendar\Update\UpdateCalendarUseCase:
+    class: App\Application\UseCase\Calendar\Update\UpdateCalendarUseCase
+    arguments:
+      - '@App\Domain\Calendar\Update\CalendarUpdate'
+
+  # Controller
+  App\Application\Controller\CalendarController:
+    class: App\Application\Controller\CalendarController
+    public: true
+    arguments:
+      - '@App\Application\UseCase\Calendar\Build\BuildCalendarUseCase'
+      - '@serializer'
+
+  App\Application\Controller\CalendarUpdateController:
+    class: App\Application\Controller\CalendarUpdateController
+    public: true
+    arguments:
+      - '@App\Application\UseCase\Calendar\Update\UpdateCalendarUseCase'
+
+  # Security
+  App\Application\Security\AccessTokenHandler:
+    class: App\Application\Security\AccessTokenHandler
+    arguments:
+      - '%calendar_access_token%'
+
+  # Denormalizer
+  App\Application\Denormalizer\CalendarFilterDenormalizer:
+    class: App\Application\Denormalizer\CalendarFilterDenormalizer
+    arguments:
+      - '@serializer.normalizer.object'
+    tags: [ serializer.normalizer ]
