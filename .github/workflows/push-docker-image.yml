@@ -31,3 +31,9 @@ jobs:
           push: true
           build-args: WEBHOOK_SECRET=${{ secrets.WEBHOOK_SECRET }}
           tags: ghcr.io/${{ github.repository }}:latest
+
+      - name: "DigitalOcean App Platform deployment"
+        uses: digitalocean/app_action@v1.1.5
+        with:
+          app_name: ifsc-calendar
+          token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
